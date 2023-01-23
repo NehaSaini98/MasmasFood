@@ -1,0 +1,15 @@
+export default {
+    icHome: require('../assest/images/home.png'),
+    icProfile: require('../assest/images/profile.png'),
+    icDashboard: require('../assest/images/dashboard.png'),
+    icBack: require('../assest/images/backIcon.png'),
+    icLoginBg: require('../assest/images/Pattern.png'),
+    icLogo: require('../assest/images/logo.png'),
+    icSplash: require('../assest/images/splash.gif'),
+    icSplash1: require('../assest/images/splash1.png'),
+    icSplash2: require('../assest/images/splash2.png'),
+    icNotification: require('../assest/images/notification.png'),
+    icSearch: require('../assest/images/search.png'),
+    icMenu1: require('../assest/images/menu1.png'),
+    icProfilePhoto:  require('../assest/images/profilePhoto.png'),
+}
